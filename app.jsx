@@ -32,7 +32,7 @@ const App = () => {
 
   // The custom message for the typewriter effect.
   // You can change this to your own heartfelt message!
-  const messageText = "My dearest [Her Name], from the moment we met, you've painted my world with so much love and laughter. This day is a reminder of how lucky I am to have you. You are my greatest adventure, my beautiful safe harbor, and the best part of my every day. Thank you for being my love. Happy Girlfriend's Day!";
+  const messageText = "My dearest Ayang, from the moment we met, you've painted my world with so much love and laughter. This day is a reminder of how lucky I am to have you. You are my greatest adventure, my beautiful safe harbor, and the best part of my every day. Thank you for being my love. Happy Girlfriend's Day!";
 
   // Function to simulate the typewriter effect
   useEffect(() => {
